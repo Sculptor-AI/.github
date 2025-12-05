@@ -1,6 +1,7 @@
-# 🎨 Sculptor AI
-
-### Open Source AI for the Future of Education
+<div align="center">
+  <img src="logo-asci.png" alt="Sculptor AI Banner" width="100%">
+</div>
+<br />
 
 We're a group of high school students building the future of artificial intelligence with open source principles and community-driven innovation.
 
@@ -53,4 +54,3 @@ Our open-source AI platform democratizing artificial intelligence with:
 ## 🤝 Join Our Community
 
 We're committed to fostering a collaborative environment where everyone can contribute to the AI revolution. Whether you're a developer, researcher, or just curious about AI, there's a place for you in our community.
-
