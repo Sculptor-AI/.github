@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo-asci.png" alt="Sculptor AI Banner" width="100%">
+  <img src="/profile/logo-asci.png" alt="Sculptor AI Banner" width="100%">
 </div>
 <br />
 
