@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile/logo-ascii.png" alt="Sculptor AI Banner" width="100%">
+  <img width="2520" height="1254" alt="image" src="https://github.com/user-attachments/assets/896d6433-0120-4e67-9308-826361fc25be" />
 </div>
 
 <br />
