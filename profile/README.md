@@ -5,23 +5,26 @@
 
 <br />
 
-We are a group of students building the future of artificial intelligence with open source principles and community-driven innovation.
+Sculptor AI (SculptorAI) is a nonprofit AI research lab based in Seattle, Washington. We build machine learning models, tools, and infrastructure, and publish the work in the open.
 
 ---
 
-## Our Mission
-Our goal is to empower students and developers to explore AI technology and push the boundaries of what's possible.
+## Research
 
+- **[Sunfish](https://sculptorai.org/research/sunfish/):** an experimental, coding-first diffusion language model for consumer hardware.
+- **[Brown dwarf atmospheres](https://sculptorai.org/research/brown-dwarf-atmospheres/):** calibrated uncertainty for atmospheric retrievals from spectra ([arXiv:2609.01665](https://arxiv.org/abs/2609.01665)).
+- **[Weather forecasting](https://sculptorai.org/research/weather-forecasting/):** fine-tuned time-series models that correct weather guidance.
+- **[Autonomous driving](https://sculptorai.org/research/autonomous-driving/):** TurnPilot, our fork of openpilot, and lightd, its traffic light detector.
+- **[Hyperspectral spoilage forecasting](https://sculptorai.org/research/#hyperspectral-spoilage-forecasting):** predicting how many days each individual apple has left.
 
-## Our Team
-The project is led by **[@kaileh57](https://github.com/kaileh57)**, who handles Research & Experimentation, and **[@ExplodingCB](https://github.com/ExplodingCB)**, who leads Platforms & Services.
+## People
 
-## Connect With Us
+- **[Chase Culbertson](https://github.com/ExplodingCB)**, CEO
+- **[Kellen Heraty](https://github.com/kaileh57)**, Chief Scientist
 
-[![Website](https://img.shields.io/badge/Website-sculptor.ai-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sculptor.ai/)
+## Links
+
+[![Website](https://img.shields.io/badge/Website-sculptorai.org-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sculptorai.org/)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-Sculptor--AI-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Sculptor-AI)
-[![AI Platform](https://img.shields.io/badge/AI_Platform-Launch_App-success?style=for-the-badge)](https://ai.sculptorai.org/)
 
-## Join Our Community
-
-We are committed to fostering a collaborative environment where everyone can contribute to the AI revolution. Whether you are a developer, researcher, or just curious about AI, there is a place for you in our community.
+Sculptor AI is not affiliated with Imbue or its Sculptor coding tool.
